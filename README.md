@@ -1,6 +1,6 @@
-# los-artificios
+# los-artificios-glass-dataset
 
-Programa de reconocimiento de figuras básicas y colores.
+Jupyter notebook que analiza y explica el Glass dataset.
 
 
 ## ¿Cómo contribuir?
